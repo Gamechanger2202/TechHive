@@ -1,0 +1,33 @@
+html{
+	padding: 0 ;
+	margin: 0;
+}
+body{
+	background-image: url(ai.jpg);
+	background-size: cover;
+}
+.trt{
+	background-color: rgba(255,255,255,0.8);
+	margin-top: 2%;
+	margin-left: 4%;
+	padding: 30px 50px;
+	width: 40%;
+	border-radius: 15px;
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.outer{
+	overflow: auto; width: 450px; height: 410px;
+}
+.inner{
+	height: 750px;
+	margin-left: 5px;
+	margin-right: 30px;
+}
